@@ -8,8 +8,8 @@
   <a href="https://blog.dimeta.top" target="_blank">
     <img src="https://img.shields.io/badge/Blog-blog.dimeta.top-brightgreen?style=flat-square&logo=vercel" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=dimeta-luoyuan&label=Profile%20views&color=0e75b6&style=flat-square"/>
-  <img src="https://img.shields.io/github/followers/dimeta-luoyuan?label=Followers&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=LuorixDev&label=Profile%20views&color=0e75b6&style=flat-square"/>
+  <img src="https://img.shields.io/github/followers/LuorixDev?label=Followers&style=flat-square" />
 </p>
 
 ---
@@ -93,12 +93,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Shapaper233&show_icons=true&theme=tokyonight&hide=prs" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shapaper233&layout=compact&theme=tokyonight" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LuorixDev&show_icons=true&theme=tokyonight&hide=prs" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuorixDev&layout=compact&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=luoyuan&theme=react-dark" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=LuorixDev&theme=react-dark" />
 </p>
 
 ---
