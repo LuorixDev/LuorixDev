@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm 洛元 👋</h1>
 
 <p align="center">
-  <b>📍 浙江宁波 | 👨‍💻 高二学生 | 🧠 全栈工程师 | 🔧 系统架构开发者</b>
+  <b>📍 浙江宁波 | 👨‍💻 高三学生 | 🧠 全栈工程师 | 🔧 软件开发者</b>
 </p>
 
 <p align="center">
