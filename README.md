@@ -20,13 +20,13 @@
 昵称: 洛元
 所在地: 宁波鄞州, 中国
 年龄: 高二在读 (17 y/o)
-开发经验: 9+ 年 (从小学二年级开始)
+开发经验: 9+ 年 
 定位: 偏实战型全栈工程师、嵌入式开发者、图像处理与系统架构爱好者
 ````
 
 🔹 喜欢探索底层逻辑，偏好设计复杂系统结构与跨领域融合项目。
 
-🔹 擅长独立从 0 到 1 构建完整项目，追求系统性与可维护性。
+🔹 擅长独立从 0 到 1 构建完整项目，追求系统性与可维护性。（其实是能跑就行
 
 🔹 正主导/参与多个技术项目（含 ESPNow 漫画阅读器、虚拟桌面系统、自建博客平台等）
 
@@ -39,7 +39,7 @@
 | 分类            | 技术栈与掌握情况                                                |
 | ------------- | ------------------------------------------------------- |
 | 💻 编程语言       | Python、C++、JavaScript、TypeScript、Shell、Pascal（早期）       |
-| 🌐 Web 全栈     | Vue.js、FastAPI、HTML/CSS、Flask、Nginx、Axios、Markdown 渲染   |
+| 🌐 Web 全栈     | Vue.js、FastAPI、HTML/CSS、Flask、Nginx、Markdown 渲染   |
 | 🧩 系统编程       | Linux 用户态 / 内核模块、Win32 API、共享内存通信、ESP32 底层封装            |
 | 📦 嵌入式与硬件     | Arduino / ESP32 / ESPNow、OpenGL 渲染、I²C / SPI、手势识别、陀螺仪算法 |
 | 🧠 AI / 图像处理  | OpenCV、NumPy、Numba、PyTorch 推理部署、字符图像渲染工具                |
@@ -60,13 +60,13 @@
 
 📌 **NTQQ ↔ Telegram 跨平台桥接机器人**
 
-> 实现多群同步，支持图片、状态通知，解决 QQ 不稳定问题
-> ⚙️ WebSocket 桥接 · 异常恢复 · 模块插件架构
+> 实现多群同步，支持图片、状态通知
+> ⚙️ 模块插件架构
 
 📌 **个人博客系统构建**
 
 > [https://blog.dimeta.top](https://blog.dimeta.top) - Vue + FastAPI 架构，超 30+ 原创文章
-> ⚙️ SSR 渲染 · 数据统计组件 · 完全自部署 · 已备案上线
+> ⚙️ 数据统计组件 · 完全自部署 · 已备案上线
 
 📌 **虚拟桌面 + AR 多窗口 Demo**
 
@@ -98,7 +98,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=LuorixDev&theme=react-dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LuorixDev&theme=react-dark" />
 </p>
 
 ---
